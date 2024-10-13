@@ -1,0 +1,87 @@
+﻿HigherTaxon,Taxon,SingScore ToleranceScore,Sample A (Section A),Sample B (Section B),Sample C (Section C),Sample D (Section D),Sample E (Section E),Sample F (Section F),Tray Net
+Platyhelminthes,Dugesiidae,3,,,,,,,0
+Polychaeta,Nereididae,6,,,,,,,0
+Oligochaeta,Tubificidae,2,,,,,,,0
+Hirudinea,Erpobdellidae,1,,,,,,,0
+Hirudinea,Glossiphoniidae,2,,,,,,,0
+Hirudinea,Haemadipsidae,5,,,,,,,0
+Mollusca,Ampullaridae,3,,,,,,,0
+Mollusca,Ancylidae,1,,,,,,,0
+Mollusca,Bithyniidae,3,,,,,,,0
+Mollusca,Lymnaeidae,1,,,,,,,0
+Mollusca,Physidae,2,,,,,,,0
+Mollusca,Planorbidae,2,,,,,,,0
+Mollusca,Thairidae,1,,,,,,,0
+Crustacea,Amphipoda,2,,,,,,,0
+Crustacea,Atyidae,6,,,,,,,0
+Crustacea,Copepoda,4,,,,,,,0
+Crustacea,Isopoda,1,,,,,,,0
+Crustacea,Ostracoda,3,,,,,,,0
+Crustacea,Palaemonidae,7,,,,,,,0
+Crustacea,Brachyura (Parathelphusidae),9,,,,,,,0
+Odonata (Zygoptera),Amphipterygidae,10,,,,,,,0
+Odonata (Zygoptera),Calopterygidae,8,,,,,,,0
+Odonata (Zygoptera),Coenagrionidae,3,,,,,,,0
+Odonata (Zygoptera),Euphaeidae,9,,,,,,,0
+Odonata (Zygoptera),Platycnemididae,5,,,,,,,0
+Odonata (Zygoptera),Platystictidae,8,,,,,,,0
+Odonata (Anisoptera),Aeshnidae,9,,,,,,,0
+Odonata (Anisoptera),Corduliidae,5,,,,,,,0
+Odonata (Anisoptera),Gomphidae,8,,,,,,,0
+Odonata (Anisoptera),Libellulidae,4,,,,,,,0
+Ephemeroptera,Baetidae,7,,,,,,,0
+Ephemeroptera,Caenidae,7,,,,,,,0
+Ephemeroptera,Heptageniidae,9,,,,,,,0
+Ephemeroptera,Leptophlebiidae,10,,,,,,,0
+Plecoptera,Leuctridae,10,,,,,,,0
+Plecoptera,Perlidae,9,,,,,,,0
+Hemiptera,Corixidae,10,,,,,,,0
+Hemiptera,Gerridae,5,,,,,,,0
+Hemiptera,Helotrephidae,4,,,,,,,0
+Hemiptera,Mesoveliidae,10,,,,,,,0
+Hemiptera,Naucoridae,7,,,,,,,0
+Hemiptera,Notonectidae,8,,,,,,,0
+Hemiptera,Veliidae,7,,,,,,,0
+Megaloptera,Sialidae,8,,,,,,,0
+Trichoptera,Calamoceratidae,9,,,,,,,0
+Trichoptera,Ecnomidae,6,,,,,,,0
+Trichoptera,Hydropsychidae,7,,,,,,,0
+Trichoptera,Hydroptilidae,6,,,,,,,0
+Trichoptera,Leptoceridae,7,,,,,,,0
+Trichoptera,Odontoceridae,10,,,,,,,0
+Trichoptera,Philopotamidae,8,,,,,,,0
+Trichoptera,Polycentropodidae,9,,,,,,,0
+Lepidoptera,Crambidae,5,,,,,,,0
+Coleoptera,Curculionidae,6,,,,,,,0
+Coleoptera,Dytiscidae,5,,,,,,,0
+Coleoptera,Hydraenidae,8,,,,,,,0
+Coleoptera,Hydrophilidae,6,,,,,,,0
+Coleoptera,Scirtidae,8,,,,,,,0
+Diptera,Athericidae,10,,,,,,,0
+Diptera,Canacidae,6,,,,,,,0
+Diptera,Ceratopogonidae,3,,,,,,,0
+Diptera,Chironomidae,2,,,,,,,0
+Diptera,Corethrellidae,10,,,,,,,0
+Diptera,Culicidae,1,,,,,,,0
+Diptera,Dolichopodidae,1,,,,,,,0
+Diptera,Empididae,4,,,,,,,0
+Diptera,Ephydridae,4,,,,,,,0
+Diptera,Muscidae,6,,,,,,,0
+Diptera,Psychodidae,2,,,,,,,0
+Diptera,Simuliidae,7,,,,,,,0
+Diptera,Syrphidae,4,,,,,,,0
+Diptera,Tipulidae,3,,,,,,,0
+Collembola,Collembola,5,,,,,,,0
+Acari,Acari,4,,,,,,,0
+Coleoptera,Gyrinidae,,,,,,,,
+Diptera,Cecidomyiidae,,,,,,,,
+Nematoda,Nematoda,,,,,,,,
+Arachnida,Araneae,,,,,,,,
+Diptera,Drosophilidae,,,,,,,,
+Anura,Limnonectes blythii,,,,,,,,
+Actinopterygii,"Poeciliidae (Gambusia affinis, mosquitofish)",,,,,,,,
+Actinopterygii,"Poeciliidae (Poecilia reticulata, Guppy)",,,,,,,,
+Actinopterygii,"Osphronemidae (Betta pugnax, Malayan Forest Betta)",,,,,,,,
+Actinopterygii,"Aplocheilidae (Aplocheilus lineatus, Striped panchax)",,,,,,,,
+Actinopterygii,"Aplocheilidae (Aplocheilus panchax, Whitespot)",,,,,,,,
+Total,,,,,,,,,
